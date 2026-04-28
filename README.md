@@ -2,7 +2,6 @@
 
 Auto-updating pipeline that fetches, merges, and publishes a monthly food security panel to Kaggle every Monday — no manual work required after setup.
 
-[![Update Food Price Dataset](https://github.com/BELBINBENORM/food-price-dataset/actions/workflows/update.yml/badge.svg)](https://github.com/BELBINBENORM/food-price-dataset/actions/workflows/update.yml)
 
 ---
 
